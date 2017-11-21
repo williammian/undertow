@@ -1,0 +1,77 @@
+11:20:27,589  INFO TesteServerPOST:21 - **************
+11:20:27,605  INFO TesteServerPOST:22 - Obtendo configurações de servidor e porta em 16/11/2017 - 11:20:27
+11:20:27,605  INFO TesteServerPOST:23 - **************
+11:20:27,683  INFO xnio:99 - XNIO version 3.3.6.Final
+11:20:27,714  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+11:20:28,088  INFO TesteServerPOST:38 - **************
+11:20:28,088  INFO TesteServerPOST:39 - Início servidor rodando em 16/11/2017 - 11:20:28
+11:20:28,088  INFO TesteServerPOST:40 - **************
+11:21:36,361  INFO TesteServerPOST:24 - **************
+11:21:36,361  INFO TesteServerPOST:25 - Recebendo request em 16/11/2017 - 11:21:36
+11:21:36,361  INFO TesteServerPOST:26 - **************
+11:21:36,377  INFO TesteServerPOST:39 - **************
+11:21:36,377  INFO TesteServerPOST:40 - Finalizando execução da request em 16/11/2017 - 11:21:36
+11:21:36,377  INFO TesteServerPOST:41 - **************
+11:48:28,326  INFO TesteServerPOST:21 - **************
+11:48:28,342  INFO TesteServerPOST:22 - Obtendo configurações de servidor e porta em 16/11/2017 - 11:48:28
+11:48:28,342  INFO TesteServerPOST:23 - **************
+11:48:28,380  INFO xnio:99 - XNIO version 3.3.6.Final
+11:48:28,411  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+11:48:52,058  INFO TesteServerPOST:21 - **************
+11:48:52,074  INFO TesteServerPOST:22 - Obtendo configurações de servidor e porta em 16/11/2017 - 11:48:52
+11:48:52,074  INFO TesteServerPOST:23 - **************
+11:48:52,136  INFO xnio:99 - XNIO version 3.3.6.Final
+11:48:52,152  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+11:48:52,370  INFO TesteServerPOST:39 - **************
+11:48:52,370  INFO TesteServerPOST:40 - Início servidor rodando em 16/11/2017 - 11:48:52
+11:48:52,370  INFO TesteServerPOST:41 - **************
+11:49:08,872  INFO TesteHandlerHeader:23 - **************
+11:49:08,872  INFO TesteHandlerHeader:24 - Header / Recebendo request em 16/11/2017 - 11:49:08
+11:49:08,872  INFO TesteHandlerHeader:25 - **************
+11:49:42,544  INFO TesteHandlerHeader:40 - **************
+11:49:42,544  INFO TesteHandlerHeader:41 - Finalizando execução da request em 16/11/2017 - 11:49:42
+11:49:42,544  INFO TesteHandlerHeader:42 - **************
+11:50:04,229  INFO TesteHandlerHeader:23 - **************
+11:50:04,229  INFO TesteHandlerHeader:24 - Header / Recebendo request em 16/11/2017 - 11:50:04
+11:50:04,229  INFO TesteHandlerHeader:25 - **************
+11:50:55,842  INFO TesteHandlerHeader:40 - **************
+11:50:55,842  INFO TesteHandlerHeader:41 - Finalizando execução da request em 16/11/2017 - 11:50:55
+11:50:55,842  INFO TesteHandlerHeader:42 - **************
+11:51:40,459  INFO TesteServerPOST:21 - **************
+11:51:40,459  INFO TesteServerPOST:22 - Obtendo configurações de servidor e porta em 16/11/2017 - 11:51:40
+11:51:40,459  INFO TesteServerPOST:23 - **************
+11:51:40,537  INFO xnio:99 - XNIO version 3.3.6.Final
+11:51:40,568  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+11:51:40,786  INFO TesteServerPOST:39 - **************
+11:51:40,786  INFO TesteServerPOST:40 - Início servidor rodando em 16/11/2017 - 11:51:40
+11:51:40,786  INFO TesteServerPOST:41 - **************
+11:51:52,898  INFO TesteHandlerHeader:23 - **************
+11:51:52,898  INFO TesteHandlerHeader:24 - Header / Recebendo request em 16/11/2017 - 11:51:52
+11:51:52,898  INFO TesteHandlerHeader:25 - **************
+11:52:28,500  INFO TesteHandlerHeader:41 - **************
+11:52:28,500  INFO TesteHandlerHeader:42 - Finalizando execução da request em 16/11/2017 - 11:52:28
+11:52:28,500  INFO TesteHandlerHeader:43 - **************
+12:23:45,722  INFO xnio:99 - XNIO version 3.3.6.Final
+12:23:45,754  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+12:24:01,562  INFO xnio:99 - XNIO version 3.3.6.Final
+12:24:01,578  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+15:40:09,800  INFO TesteServerPOST:21 - **************
+15:40:09,800  INFO TesteServerPOST:22 - Obtendo configurações de servidor e porta em 16/11/2017 - 15:40:09
+15:40:09,800  INFO TesteServerPOST:23 - **************
+15:40:09,878  INFO xnio:99 - XNIO version 3.3.6.Final
+15:40:09,894  INFO nio:55 - XNIO NIO Implementation Version 3.3.6.Final
+15:40:10,112  INFO TesteServerPOST:39 - **************
+15:40:10,112  INFO TesteServerPOST:40 - Início servidor rodando em 16/11/2017 - 15:40:10
+15:40:10,112  INFO TesteServerPOST:41 - **************
+15:40:21,957  INFO TesteHandlerHeader:23 - **************
+15:40:21,957  INFO TesteHandlerHeader:24 - Header / Recebendo request em 16/11/2017 - 15:40:21
+15:40:21,957  INFO TesteHandlerHeader:25 - **************
+15:40:21,972  INFO TesteHandlerHeader:41 - **************
+15:40:21,972  INFO TesteHandlerHeader:42 - Finalizando execução da request em 16/11/2017 - 15:40:21
+15:40:21,972  INFO TesteHandlerHeader:43 - **************
+15:40:30,605  INFO TesteHandlerHeader:23 - **************
+15:40:30,605  INFO TesteHandlerHeader:24 - Header / Recebendo request em 16/11/2017 - 15:40:30
+15:40:30,621  INFO TesteHandlerHeader:25 - **************
+15:40:30,621  INFO TesteHandlerHeader:41 - **************
+15:40:30,621  INFO TesteHandlerHeader:42 - Finalizando execução da request em 16/11/2017 - 15:40:30
+15:40:30,621  INFO TesteHandlerHeader:43 - **************
